@@ -2,6 +2,7 @@ enable-magisk-update = true
 parallel-jobs = 1
 compression-level = 9
 riplib = true
+cli-source = "inotia00/revanced-cli"
 
 # add 'enabled = false' for not patching a specific app or remove it from the config
 # see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
@@ -12,7 +13,7 @@ riplib = true
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
-rv-brand = "anddea ReVanced"
+rv-brand = "ReVanced Extended"
 build-mode = "both"
 version = "19.47.53"
 
@@ -20,7 +21,7 @@ version = "19.47.53"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
-rv-brand = "anddea ReVanced"
+rv-brand = "ReVanced Extended"
 excluded-patches = "'Custom branding icon for YouTube Music' 'Custom branding name for YouTube Music' 'Return YouTube Username'"
 arch = "arm64-v8a"
 build-mode = "both"
