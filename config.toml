@@ -30,4 +30,4 @@ excluded-patches = "'Custom branding icon for YouTube Music' 'Custom branding na
 included-patches = "'Visual preferences icons for YouTube Music' 'Return YouTube Username'"
 arch = "arm64-v8a"
 build-mode = "both"
-version = "8.12.53"
+version = "8.30.54"
